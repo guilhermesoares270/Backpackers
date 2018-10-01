@@ -1,4 +1,8 @@
-# Backpackers
-Backpackers is an cellphone application developed for studies purposes with flutter. 
-Implemented features:login screen, user register.
-Having in mind the studies purposes it has some limitations the principal is: it dosen't have a any database implemented, it only uses in memory storage.
+# backpackers
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
